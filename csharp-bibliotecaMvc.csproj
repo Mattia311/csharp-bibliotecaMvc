@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>csharp_bibliotecaMvc</RootNamespace>
+    <UserSecretsId>4e4ec469-9b34-441b-ab4b-817548d12b6a</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
